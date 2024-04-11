@@ -33,7 +33,7 @@ To set up the necessary environment for running the project, follow these steps:
 
 Directly download our data from [here](todo) as ./data folder.
 
-To test with our pretrained models, please download the model from [here](https://drive.google.com/file/d/1AtxnGhVQ7Wa-i5obwqIY8mQGvoqHg4jO/view?usp=drive_link) (Google Drive)  into ./outputs folder.
+To test with our pretrained models, please download the model from [here](https://drive.google.com/file/d/1bBp_PuK7_7y9VNYadW3w-HRRfW0wZmA2/view?usp=drive_link) (Google Drive)  into ./outputs folder.
 
 ## Directory Structure
 
