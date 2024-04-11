@@ -1,0 +1,16 @@
+nohup: ignoring input
+Loading checkpoint: ./outputs/BeatDance/model_best.pth ...
+Checkpoint loaded
+/home/yangkaixing/miniconda3/envs/openpose/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+0it [00:00, ?it/s]1it [00:01,  1.58s/it]6it [00:01,  4.71it/s]11it [00:01,  9.33it/s]15it [00:01, 12.89it/s]19it [00:02, 16.61it/s]23it [00:02, 19.72it/s]27it [00:02, 22.88it/s]31it [00:02, 25.24it/s]35it [00:02, 26.01it/s]38it [00:02, 14.03it/s]
+-----Val Epoch: 0, dl: 0/0-----
+ R@1: 2.4752475247524752 (window: 2.4752475247524752)
+ R@5: 7.508250825082508 (window: 7.508250825082508)
+ R@10: 12.706270627062706 (window: 12.706270627062706)
+ R@50: 30.858085808580856 (window: 30.858085808580856)
+ R@100: 44.306930693069305 (window: 44.306930693069305)
+ MedR: 130.0 (window: 130.0)
+ Means: 239.56683168316832 (window: 239.56683168316832)
+ AVG: 60.898102310231025 (window: 60.898102310231025)
+ Loss: 7.6190228713186166

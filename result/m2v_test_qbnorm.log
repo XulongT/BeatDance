@@ -1,0 +1,25 @@
+nohup: ignoring input
+Loading checkpoint: ./outputs/BeatDance/model_best.pth ...
+Checkpoint loaded
+/home/yangkaixing/miniconda3/envs/openpose/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+0it [00:00, ?it/s]1it [00:01,  1.36s/it]7it [00:01,  6.26it/s]12it [00:01, 11.21it/s]17it [00:01, 16.54it/s]22it [00:01, 21.90it/s]27it [00:01, 26.98it/s]32it [00:02, 29.77it/s]37it [00:02, 34.08it/s]38it [00:02, 16.80it/s]
+0it [00:00, ?it/s]1it [00:00,  5.73it/s]6it [00:00, 25.59it/s]11it [00:00, 35.09it/s]16it [00:00, 38.20it/s]21it [00:00, 40.05it/s]26it [00:00, 41.04it/s]31it [00:00, 43.07it/s]36it [00:00, 44.20it/s]41it [00:01, 45.48it/s]46it [00:01, 45.69it/s]51it [00:01, 43.53it/s]57it [00:01, 44.37it/s]62it [00:01, 45.82it/s]67it [00:01, 46.67it/s]73it [00:01, 46.95it/s]78it [00:01, 47.50it/s]83it [00:01, 47.04it/s]88it [00:02, 47.62it/s]93it [00:02, 44.89it/s]98it [00:02, 45.44it/s]103it [00:02, 45.44it/s]108it [00:02, 43.66it/s]113it [00:02, 43.38it/s]118it [00:02, 44.12it/s]123it [00:02, 45.10it/s]128it [00:02, 45.34it/s]133it [00:03, 45.28it/s]138it [00:03, 45.30it/s]143it [00:03, 43.00it/s]148it [00:03, 42.82it/s]153it [00:03, 43.18it/s]158it [00:03, 43.85it/s]163it [00:03, 44.11it/s]168it [00:03, 44.44it/s]173it [00:03, 44.56it/s]178it [00:04, 44.59it/s]183it [00:04, 44.66it/s]188it [00:04, 44.61it/s]193it [00:04, 44.54it/s]198it [00:04, 43.34it/s]203it [00:04, 43.71it/s]208it [00:04, 40.90it/s]213it [00:04, 42.55it/s]218it [00:05, 43.91it/s]223it [00:05, 43.94it/s]228it [00:05, 42.17it/s]233it [00:05, 41.77it/s]238it [00:05, 42.87it/s]243it [00:05, 42.88it/s]248it [00:05, 40.43it/s]253it [00:05, 39.71it/s]258it [00:06, 38.97it/s]263it [00:06, 40.34it/s]268it [00:06, 39.67it/s]272it [00:06, 39.23it/s]276it [00:06, 38.71it/s]280it [00:06, 38.57it/s]284it [00:06, 38.45it/s]288it [00:06, 38.53it/s]292it [00:06, 38.02it/s]296it [00:07, 37.64it/s]300it [00:07, 37.10it/s]303it [00:07, 41.67it/s]
+(1212,)
+1
+(1212, 1212)
+(1212,)
+1
+(1212, 1212)
+torch.Size([1212, 1, 1212]) torch.Size([1212, 1, 1212])
+torch.Size([1212, 1, 1212])
+torch.Size([1212, 1, 1212])
+-----Val Epoch: 0, dl: 0/0-----
+ R@1: 2.4752475247524752 (window: 2.4752475247524752)
+ R@5: 8.168316831683168 (window: 8.168316831683168)
+ R@10: 13.118811881188119 (window: 13.118811881188119)
+ R@50: 32.26072607260726 (window: 13.118811881188119)
+ R@100: 44.05940594059406 (window: 13.118811881188119)
+ MedR: 128.0 (window: 128.0)
+ MeanR: 239.8085808580858 (window: 239.8085808580858)
+ Loss: 10.183671750520405
