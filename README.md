@@ -2,7 +2,7 @@
 
 Code for ICMR 2024 paper "BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval"
 
-[[Paper]](TODO) | [[Video Demo]](https://youtu.be/xAIB5ucYiuI?si=EwNu8BKcz8Y_jELx)
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3658045) | [[Video Demo]](https://youtu.be/xAIB5ucYiuI?si=EwNu8BKcz8Y_jELx)
 
 <a href="https://www.youtube.com/watch?v=xAIB5ucYiuI" target="_blank">
     <img src="https://github.com/XulongT/BeatDance/blob/main/demo/playbutton.png" alt="Watch the video" width="400"/>
@@ -107,6 +107,11 @@ Our code is based on [XPool](https://github.com/layer6ai-labs/xpool) . We sincer
 
 # Citation
 
-    @inproceedings{todo
+    @inproceedings{yang2024beatdance,
+      title={BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval},
+      author={Yang, Kaixing and Zhou, Xukun and Tang, Xulong and Diao, Ran and Liu, Hongyan and He, Jun and Fan, Zhaoxin},
+      booktitle={Proceedings of the 2024 International Conference on Multimedia Retrieval},
+      pages={11--19},
+      year={2024}
     }
 
