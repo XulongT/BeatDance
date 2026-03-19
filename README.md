@@ -8,7 +8,7 @@ Code for ICMR 2024 paper "BeatDance: A Beat-Based Model-Agnostic Contrastive Lea
     <img src="https://github.com/XulongT/BeatDance/blob/main/demo/playbutton.png" alt="Watch the video" width="400"/>
 </a>
 
-
+✨Dataset release!✨
 
 # Code
 
@@ -31,7 +31,7 @@ To set up the necessary environment for running the project, follow these steps:
 
 ## Download
 
-Directly download our data from [here](todo) as ./data folder.
+Directly download our data from [here](https://www.modelscope.cn/datasets/yangkaixing/MD-Data) as ./data folder.
 
 To test with our pretrained models, please download the model from [here](https://drive.google.com/file/d/1bBp_PuK7_7y9VNYadW3w-HRRfW0wZmA2/view?usp=drive_link) (Google Drive)  into ./outputs folder.
 
